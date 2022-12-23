@@ -1,0 +1,17 @@
+git download-->https://git-scm.com/download/win--->install
+
+Register GitHub-->https://github.com/lakshmi161987/testrepo
+
+--->click + icon-->create new repository
+
+--->copy the git url--->like-->https://github.com/lakshmi161987/testrepo.git
+
+
+
+
+git init--->git initialized
+
+git remote add origin https://github.com/lakshmi161987/testrepo.git
+
+
+ 
